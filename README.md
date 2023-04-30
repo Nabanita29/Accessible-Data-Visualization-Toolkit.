@@ -1,4 +1,6 @@
 # Accessible-Data-Visualization-Toolkit.
+Winner (MLH x ALL-In Hackathon - Best Accessibility Award sponsored by Fidelity in helping make tech more accessible)
+
 The Accessible Data Visualization Toolkit is a Python-based project designed to create data visualizations with accessibility features. The project uses libraries such as Matplotlib, Seaborn, gTTS, Pydub to create a variety of data visualizations and make them accessible to individuals with visual impairments.
 
 
